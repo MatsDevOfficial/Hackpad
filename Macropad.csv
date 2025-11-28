@@ -1,0 +1,4 @@
+"Id";"Aanduiding";"Footprint";"Hoeveelheid";"Orientatie";"Leverancier en ref";
+1;"SW5,SW6,SW1,SW2,SW3,SW4";"SW_Cherry_MX_1.00u_PCB";6;"SW_Push";;;
+2;"U1";"Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM";1;"XAIO HERE";;;
+3;"D2,D1";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";2;"SK6812MINI";;;
