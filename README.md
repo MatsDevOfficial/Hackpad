@@ -18,16 +18,16 @@ Here are pictures of my pcb:
 ## CAD
 Designed using AutoDask Fusion! 
 
-![](/Macropad.png)
+![](/Schermafbeelding%202025-11-28%20154930.png)
 
 Everything fits together with 4 m3 screws and bolts
 
 ## Firmware
 
-I wrote the firmware using kmk, you can see it inside the repo. It can be used to control your mouse!
+I wrote the firmware using kmk, you can see it inside the repo. [](/Firmware%20and%20drivers/drivers.main.py)
 
 ## Notes
 Making the pad was fun!
 
 ## BOM
-![BOM](/Macropad.csv)
+[BOM](/Macropad.csv)
