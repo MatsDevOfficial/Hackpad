@@ -1,8 +1,6 @@
 # Mats's hackpad
 Hello! This is my first ever hardware project, so i hope you like it..
 
-## Features
-
 
 ## PCB
 Here are pictures of my pcb:
